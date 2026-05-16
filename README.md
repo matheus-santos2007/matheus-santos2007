@@ -1,6 +1,6 @@
-# 👩🏻‍💻 Larissa Kich
+# 👩🏻‍💻 Matheus Santos
 
-**`Desenvolvedora FullStack`**
+**`Desenvolvedor Back-end`**
 
 Me chamo Matheus Etelvino dos Santos, tenho 18 anos e sou natural de Santa Catarina.
 
