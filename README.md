@@ -63,7 +63,7 @@ Me chamo Matheus Etelvino dos Santos, tenho 18 anos e sou natural de Santa Catar
     title="Django"
     width="30px" 
     style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/django/django-original.svg" 
+    src="[https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/django/django-original.svg](https://www.pngegg.com/en/search?q=django)" 
 />
 
 <br/>
