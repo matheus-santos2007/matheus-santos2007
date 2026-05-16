@@ -32,15 +32,6 @@ Me chamo Matheus Etelvino dos Santos, tenho 18 anos e sou natural de Santa Catar
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" 
 />
-
-<img 
-    align="left" 
-    alt="JQuery" 
-    title="JQuery"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jquery/jquery-original.svg" 
-/>
 <img 
     align="left" 
     alt="Git" 
@@ -57,14 +48,7 @@ Me chamo Matheus Etelvino dos Santos, tenho 18 anos e sou natural de Santa Catar
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
 />
-<img 
-    align="left" 
-    alt="Django" 
-    title="Django"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="[https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/django/django-original.svg](https://www.pngegg.com/en/search?q=django)" 
-/>
+
 
 <br/>
 <br/>
